@@ -1,0 +1,12 @@
+nom :
+prenom :
+mail :
+passwordinvestcollect :
+adresse :
+codepostal :
+ville :
+tel :
+passwordplayin :
+passwordtradin :
+passwordpaypal :
+mailtradin :
